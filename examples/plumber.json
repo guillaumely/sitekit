@@ -1,0 +1,15 @@
+{
+  "name": "Plomberie Dupont",
+  "trade": "Plombier chauffagiste",
+  "area": "Exempleville et alentours",
+  "phone": "+33 1 23 45 67 89",
+  "email": "contact@example.com",
+  "services": [
+    { "problem": "Fuite d'eau", "details": ["Recherche de fuite", "Réparation cuivre, PVC, multicouche"] },
+    { "problem": "Plus d'eau chaude", "details": ["Diagnostic du chauffe-eau", "Réparation ou remplacement"] },
+    { "problem": "Chaudière en panne", "details": ["Dépannage gaz et fioul", "Entretien annuel"] }
+  ],
+  "reviews": [],
+  "photos": [],
+  "palette": { "ink": "#1f2b4d", "accent": "#f7941d" }
+}
